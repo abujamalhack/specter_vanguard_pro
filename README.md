@@ -17,7 +17,7 @@ Unauthorized use is illegal and unethical. Use only on systems you own or have e
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourrepo/specter-vanguard-pro.git
+git clone https://github.com/abujamalhack/specter_vanguard_pro.git
 cd specter-vanguard-pro
 
 # Install dependencies
